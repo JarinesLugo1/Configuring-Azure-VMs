@@ -1,1 +1,1 @@
-# Configuring-Azure-VMs
+# Azure-VMs Prereqs/Installations
